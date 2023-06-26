@@ -1,0 +1,3 @@
+// Constantes
+
+const nome = 'João';
